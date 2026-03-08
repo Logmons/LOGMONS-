@@ -22,7 +22,7 @@ I'm a passionate Computer Science student from Morocco with a deep interest in *
 - 🌱 Exploring **MLOps** and **Big Data** technologies
 - 👯 Open to collaborate on **open-source AI projects**
 - 💬 Ask me about **Python, Machine Learning, or anything tech**
-- 📫 Reach me at: **monsif.elghazouani@example.com**
+- 📫 Reach me at: **monsifelghazouani91@gmail.com**
 - ⚡ Fun fact: I'm a coffee-fueled coder who loves solving Kaggle challenges
 
 ---
