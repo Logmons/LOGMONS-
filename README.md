@@ -9,10 +9,13 @@
 
 ## 🌐 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/monsif-elghazouani-1224b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[Kaggle](https://www.kaggle.com/logmons) 
-[HuggingFace](https://huggingface.co/LOGMONS)  
-[GitHub](https://github.com/Logmons)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monsif-elghazouani-1224b9329)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/logmons)
+
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/LOGMONS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Logmons)
 
 ---
 
