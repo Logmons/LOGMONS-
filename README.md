@@ -9,9 +9,9 @@
 
 ## 🌐 Connect with me
 
-[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/monsif-elghazouani-1224b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[Kaggle]([https://kaggle.com/](https://www.kaggle.com/logmons))  
-[HuggingFace]([https://huggingface.co/](https://huggingface.co/LOGMONS))  
+[LinkedIn](https://www.linkedin.com/in/monsif-elghazouani-1224b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[Kaggle](https://www.kaggle.com/logmons) 
+[HuggingFace](https://huggingface.co/LOGMONS)  
 [GitHub](https://github.com/Logmons)
 
 ---
