@@ -26,26 +26,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Logmons&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 My Projects
-
-- 🇲🇦 Artisanat Maroc – Django Web App  
-- 🤖 Machine Learning Projects  
-- 📊 Data Analysis Projects  
-
----
-
-## 🤗 AI Projects
-
-Models available on:
-
-HuggingFace  
-https://huggingface.co/username
-
-Kaggle notebooks  
-https://kaggle.com/username
